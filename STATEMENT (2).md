@@ -1,17 +1,17 @@
-# 📋 Problem Statement
+#  Problem Statement
 
 ## Project Title
 **Movie Recommendation System (Extended Version)**
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To design and implement a **console-based Movie Recommendation System** in Python that recommends movies to users based on genre similarity — without using any external libraries or built-in sorting functions.
 
 ---
 
-## 📌 Problem Description
+##  Problem Description
 
 In today's digital age, users are often overwhelmed by the sheer number of movies available across streaming platforms. A simple, efficient recommendation mechanism can help users discover movies similar to ones they already enjoy.
 
@@ -21,7 +21,7 @@ This project addresses the following problem:
 
 ---
 
-## 🧩 Scope
+##  Scope
 
 ### In Scope
 - A static movie database stored as a Python dictionary
@@ -38,7 +38,7 @@ This project addresses the following problem:
 
 ---
 
-## ✅ Functional Requirements
+##  Functional Requirements
 
 | ID | Requirement |
 |----|-------------|
@@ -52,7 +52,7 @@ This project addresses the following problem:
 
 ---
 
-## 🚫 Non-Functional Requirements
+##  Non-Functional Requirements
 
 | ID | Requirement |
 |----|-------------|
@@ -63,7 +63,7 @@ This project addresses the following problem:
 
 ---
 
-## 🔢 Algorithm Design
+##  Algorithm Design
 
 ### Match Scoring
 For each candidate movie, a score is calculated as:
@@ -113,7 +113,7 @@ movies = {
 
 ---
 
-## 🧪 Test Cases
+##  Test Cases
 
 | Test ID | Input | Expected Output |
 |---------|-------|-----------------|
@@ -125,7 +125,7 @@ movies = {
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 By completing this project, the developer demonstrates:
 
@@ -138,7 +138,7 @@ By completing this project, the developer demonstrates:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Add user ratings per movie
 - Load movie data from a CSV or JSON file
@@ -148,7 +148,7 @@ By completing this project, the developer demonstrates:
 
 ---
 
-## 👤 Submitted By
+##  Submitted By
 
 | Field | Details |
 |-------|---------|
