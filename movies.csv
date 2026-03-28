@@ -1,0 +1,11 @@
+Movie Title,Genre 1,Genre 2,Genre 3,Total Genres,Similar To (Score 2+),Similar To (Score 1)
+Inception,Sci-Fi,Action,Thriller,3,"Avengers (2), Interstellar (2)","The Dark Knight (1), Deadpool (1), Joker (1)"
+Titanic,Romance,Drama,,2,"The Notebook (2), Interstellar (1)","Joker (1)"
+Avengers,Action,Sci-Fi,,2,"Inception (2), Interstellar (2)","The Dark Knight (1), Deadpool (1), Joker (1)"
+The Notebook,Romance,Drama,,2,"Titanic (2)","Interstellar (1), Joker (1)"
+Interstellar,Sci-Fi,Drama,,2,"Inception (2), Avengers (2)","Titanic (1), The Notebook (1), The Dark Knight (1), Joker (1)"
+The Dark Knight,Action,Crime,,2,"Joker (1)","Inception (1), Avengers (1), Deadpool (1)"
+Joker,Drama,Crime,,2,"The Dark Knight (1)","Titanic (1), The Notebook (1), Interstellar (1)"
+Frozen,Animation,Family,,2,"Toy Story (1)",
+Toy Story,Animation,Comedy,,2,"Frozen (1)","Deadpool (1)"
+Deadpool,Action,Comedy,,2,"Toy Story (1)","Inception (1), Avengers (1), The Dark Knight (1)"
